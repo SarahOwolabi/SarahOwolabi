@@ -1,11 +1,12 @@
 ### Hiiiii there 👋
 **My name is Sarah Owolabi**
-I am a smart, intelligent, hardworking and ambitous lady currently studying software engineering skills(python) with Hyperion's Dev Co Grammar
-It has been a sweet, challenging and developmental journey so far and i cant wait to start building my personal projects.
-You can always reach me on owolabisara@gmail.com
+a dedicated and ambitious software engineer with a strong foundation in Python and a passion for creating innovative solutions. Having recently completed my software engineering bootcamp, I'm eager to apply my skills in a dynamic development environment.
+ I thrive on challenges and view them as opportunities for growth. I believe that every obstacle helps me become a better developer and individual. My goal is to build personal projects that not only showcase my technical abilities but also contribute to meaningful applications.
+Feel free to reach me on owolabisara@gmail.com
 My pronouns are she/her.
-FunFact: I think i can always pull through whatever challenge that comes my way because they make me a better person.
+FunFact:   I'm a firm believer in the power of perseverance—no challenge is too great!
 
+Let's connect and collaborate!
 <!--
 **SarahOwolabi/SarahOwolabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
