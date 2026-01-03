@@ -4,7 +4,7 @@ a dedicated and ambitious software engineer with a strong foundation in Python a
  I thrive on challenges and view them as opportunities for growth. I believe that every obstacle helps me become a better developer and individual. My goal is to build personal projects that not only showcase my technical abilities but also contribute to meaningful applications.
 Feel free to reach me on owolabisara@gmail.com
 My pronouns are she/her.
-FunFact:   I'm a firm believer in the power of perseverance—no challenge is too great!
+FunFact:   I'm a firm believer in the power of perseverance,no challenge is too great!
 
 Let's connect and collaborate!
 <!--
