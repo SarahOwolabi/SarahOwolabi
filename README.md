@@ -1,14 +1,5 @@
-### Hiiiii there 👋
-**My name is Sarah Owolabi**
-a dedicated and ambitious software engineer with a strong foundation in Python and a passion for creating innovative solutions. Having recently completed my software engineering bootcamp, I'm eager to apply my skills in a dynamic development environment.
- I thrive on challenges and view them as opportunities for growth. I believe that every obstacle helps me become a better developer and individual. My goal is to build personal projects that not only showcase my technical abilities but also contribute to meaningful applications.
-Feel free to reach me on owolabisara@gmail.com
-My pronouns are she/her.
-FunFact:   I'm a firm believer in the power of perseverance,no challenge is too great!
-
-Let's connect and collaborate!
-<!--
-**SarahOwolabi/SarahOwolabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi,Sarah here! I’m a Software Engineer with hands-on experience building Python and web-based applications using Django, SQL, HTML, CSS, and Git.
+This repository showcases practical projects that demonstrate my ability to build, manage, and maintain real-world software systems.
 
 Here are some ideas to get you started:
 
